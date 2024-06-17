@@ -21,3 +21,15 @@ pip install ultralytics
 pip install torch torchvision
 pip install numpy
 pip install pillow
+
+
+Usage
+To run the face detection and boat classification, use the following command:
+
+python detect_boat.py
+
+
+Model Files
+best_2.pt: Pretrained YOLO model for face detection.
+resnet18-f37072fd.pth: Pretrained ResNet18 model.
+boat_model_res.pth: Pretrained model for boat classification.
