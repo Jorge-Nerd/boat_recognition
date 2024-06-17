@@ -14,7 +14,7 @@ This project demonstrates a pipeline for detecting faces in video frames using Y
 
 To run this project, you need to install the required dependencies. Use the following commands to install them:
 
-```bash
+bash
 pip install opencv-python opencv-python-headless
 pip install cvzone
 pip install ultralytics
