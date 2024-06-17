@@ -27,8 +27,9 @@ pip install pillow
 ## Usage
 To run the face detection and boat classification, use the following command:
 
+````
 python detect_boat.py
-
+````
 
 ## Model Files
 best_2.pt: Pretrained YOLO model for face detection.
