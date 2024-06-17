@@ -34,3 +34,7 @@ python detect_boat.py
 best_2.pt: Pretrained YOLO model for face detection.
 resnet18-f37072fd.pth: Pretrained ResNet18 model.
 boat_model_res.pth: Pretrained model for boat classification.
+
+
+![image](https://github.com/Jorge-Nerd/boat_recognition/assets/77848827/7c7eb870-595a-44b0-9c58-4fae9c594cce)
+
