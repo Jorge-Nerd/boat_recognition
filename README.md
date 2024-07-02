@@ -32,7 +32,7 @@ python detect_boat.py
 ````
 
 ## Model Files
-- best_2.pt: Pretrained YOLO model for face detection.
+- best_2.pt: Pretrained YOLO model for boat detection.
 - resnet18-f37072fd.pth: Pretrained ResNet18 model.
 - boat_model_res.pth: Pretrained model for boat classification.
 
